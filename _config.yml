@@ -47,10 +47,10 @@ collections:
   posts:
     title: Blog Projects # Needed for Siteleaf
     output: true
-    description: "Thoughts and process used" # The post list page content
+    description: "Journey through Metis's Projects" # The post list page content
     feature_text: |
       Welcome to the Jennifer Phan's Blog
-    feature_image: "https://unsplash.it/1300/400?image=1067"
+    feature_image: "https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/09/Peter-West-Carey-Seattle2012-0908-6437-15.jpg?ssl=1"
 
 # 6. Jekyll collections settings
 defaults:
@@ -64,7 +64,7 @@ lang: en-GB # Set the site language
 title: "Jennifer Phan's Blog" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "My Metis's Projects" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://jphan88.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/jphan88/alembic"
 email: "jphan88@gmail.com"
