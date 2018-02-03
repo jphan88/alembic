@@ -34,34 +34,22 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
 
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: US # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Blog Projects # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Thoughts and process used" # The post list page content
     feature_text: |
-      Welcome to the blog
+      Welcome to the Jennifer Phan's Blog
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
