@@ -4,10 +4,14 @@ category: Projects
 feature_image: "https://media.brstatic.com/2017/09/25112155/train-approaching-subway-station-queens-new-york-city-mst.jpg"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+## First Week of Metis!
+
+It’s the first week of Metis and we are starting  it off on a Tuesday due to Martin Luther King’s holiday. Although everyone out there (not in the bootcamp) are rejoicing for the day off, I know what this really means… We will have to cram five days of  material into four and have one less day to work on our project which is still due on the same Friday. As expected the first week started as intense as I expected and the shorter time span made this even more so. 
+
 
 <!-- more -->
 
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
+## So let the fun begin... Project 1 Benson
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+We received an email from WomenTechWomenYes asking our team to use the power of analytics to help optimize the effectiveness of their street teams’ promotion of their annual event gala scheduled to occur early summer. These street teams will be located near subway stations to pass out flyers to patrons where they can receive free tickets to the gala. The goal of the gala is to increase women’s interest in technology and fundraise for scholarships. 
+
