@@ -1,5 +1,5 @@
 ---
-title: Project 1 Benson
+title: Project 2 Luther
 category: Projects
 feature_image: "https://media.brstatic.com/2017/09/25112155/train-approaching-subway-station-queens-new-york-city-mst.jpg"
 ---
