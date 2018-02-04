@@ -50,7 +50,7 @@ collections:
     description: "Journey through Metis's Projects" # The post list page content
     feature_text: |
       Welcome to the Jennifer Phan's Blog
-    feature_image: "https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/09/Peter-West-Carey-Seattle2012-0908-6437-15.jpg?ssl=1 | height=45"
+    feature_image: "https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/09/Peter-West-Carey-Seattle2012-0908-6437-15.jpg?ssl=1 height="45""
 
 # 6. Jekyll collections settings
 defaults:
