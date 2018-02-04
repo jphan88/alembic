@@ -1,7 +1,7 @@
 ---
 title: Project 1 Benson
 category: Projects
-feature_image: "https://nycdatascience.com/blog/wp-content/uploads/2017/07/NYC-transit-public-sector-transportation-MTA-subway-train_iStock_NewsFeed_614x261-1-e1500867574991.jpg"
+feature_image: "https://media.brstatic.com/2017/09/25112155/train-approaching-subway-station-queens-new-york-city-mst.jpg"
 ---
 
 The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
