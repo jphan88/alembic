@@ -1,5 +1,5 @@
 ---
-title: Description of an Alembic
+title: Project 2
 category: General
 feature_image: "https://unsplash.it/1200/400?image=200"
 ---
