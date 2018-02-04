@@ -62,7 +62,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Jennifer Phan's Blog" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "http://static1.squarespace.com/static/58affa68414fb5edf9808f7a/t/58b509ff579fb328f5d781e4/1488259584451/high-qualty-JLP-logo-favicon.png?format=1000w" # Site logo, also used in jekyll-seo-tag
 description: "My Metis's Projects" # Site description and default description, also used in jekyll-seo-tag
 url: "https://jphan88.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
