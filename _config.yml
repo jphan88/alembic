@@ -37,7 +37,7 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 
 # 4. Jekyll settings
 sass:
-  style: compressed # Style compression
+ style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: US # Timezone for blog posts and alike
@@ -83,8 +83,8 @@ navigation_header:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+jp
+  #LinkedIn: https://www.linkedin.com/in/daviddarnes
+  #Google+: https://plus.google.com/+jp
   GitHub: https://github.com/jphan88
 
 
